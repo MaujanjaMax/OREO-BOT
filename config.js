@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '788925545', process.env.OWNER_NAME || 'Developer CRS 🤖', true],
+  ['788925545', 'Pro CRS ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Thomas Gagas'
+global.botname = process.env.BOT_NAME || 'LIPA-BOT'
  
  
  //Api's
@@ -23,14 +23,14 @@ global.APIKeys = {
 }
 
 //Apikeys
-global.shizokeys = 'shizo'
+global.shizokeys = 'Pro CRS'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || 'LIPA-BOT 🥵'
+global.stkowner = process.env.OWNER_NAME || '© CyrusiDigital'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with ❤️ by LIPA-BOT'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
